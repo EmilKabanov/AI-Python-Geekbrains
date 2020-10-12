@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e21013f5-df9c-4da3-b330-2d450f7a9171" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iYU9iII7ha6iJfCXPRTIcwkXLM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Сайтостроительство\Prj\ai\Python\AI-Python-Geekbrains" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Lesson-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Dropbox\Сайтостроительство\Prj\ai\Python\Lesson-1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Lesson-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Dropbox\Сайтостроительство\Prj\ai\Python\Lesson-1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Lesson-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Dropbox\Сайтостроительство\Prj\ai\Python\Lesson-1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Lesson-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Dropbox\Сайтостроительство\Prj\ai\Python\Lesson-1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Lesson-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Dropbox\Сайтостроительство\Prj\ai\Python\Lesson-1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" singleton="true">
+      <module name="Lesson-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Dropbox\Сайтостроительство\Prj\ai\Python\Lesson-1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.4" />
+      <item itemvalue="Python.5" />
+      <item itemvalue="Python.6" />
+      <item itemvalue="Python.1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.6" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e21013f5-df9c-4da3-b330-2d450f7a9171" name="Default Changelist" comment="" />
+      <created>1602083869540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602083869540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2242" y="280" key="#Notifications" timestamp="1602098568028">
+      <screen x="1680" y="0" width="1600" height="900" />
+    </state>
+    <state x="2242" y="280" key="#Notifications/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602098568028" />
+    <state x="2276" y="313" key="#Scopes" timestamp="1602358311521">
+      <screen x="1680" y="0" width="1600" height="900" />
+    </state>
+    <state x="2276" y="313" key="#Scopes/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602358311521" />
+    <state x="257" y="242" width="1081" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602084420510">
+      <screen x="0" y="0" width="1680" height="1022" />
+    </state>
+    <state x="257" y="242" width="1081" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@0.0.1680.1022" timestamp="1602084420510" />
+    <state x="2273" y="238" key="FileChooserDialogImpl" timestamp="1602358324789">
+      <screen x="1680" y="0" width="1600" height="900" />
+    </state>
+    <state x="623" y="270" key="FileChooserDialogImpl/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@0.0.1680.1022" timestamp="1602084290478" />
+    <state x="2273" y="238" key="FileChooserDialogImpl/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602358324789" />
+    <state x="2318" y="374" key="Github.CreateGistDialog" timestamp="1602098625776">
+      <screen x="1680" y="0" width="1600" height="900" />
+    </state>
+    <state x="2318" y="374" key="Github.CreateGistDialog/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602098625776" />
+    <state width="1579" height="223" key="GridCell.Tab.0.bottom" timestamp="1602161303349">
+      <screen x="0" y="0" width="1600" height="872" />
+    </state>
+    <state width="1579" height="223" key="GridCell.Tab.0.bottom/-1600.0.1600.872/1600.0.1600.900/0.0.1600.872@0.0.1600.872" timestamp="1602161303349" />
+    <state width="1659" height="233" key="GridCell.Tab.0.bottom/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@0.0.1680.1022" timestamp="1602098182920" />
+    <state width="1579" height="233" key="GridCell.Tab.0.bottom/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602098236220" />
+    <state width="1579" height="223" key="GridCell.Tab.0.center" timestamp="1602161303348">
+      <screen x="0" y="0" width="1600" height="872" />
+    </state>
+    <state width="1579" height="223" key="GridCell.Tab.0.center/-1600.0.1600.872/1600.0.1600.900/0.0.1600.872@0.0.1600.872" timestamp="1602161303348" />
+    <state width="1659" height="233" key="GridCell.Tab.0.center/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@0.0.1680.1022" timestamp="1602098182920" />
+    <state width="1579" height="233" key="GridCell.Tab.0.center/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602098236220" />
+    <state width="1579" height="223" key="GridCell.Tab.0.left" timestamp="1602161303348">
+      <screen x="0" y="0" width="1600" height="872" />
+    </state>
+    <state width="1579" height="223" key="GridCell.Tab.0.left/-1600.0.1600.872/1600.0.1600.900/0.0.1600.872@0.0.1600.872" timestamp="1602161303348" />
+    <state width="1659" height="233" key="GridCell.Tab.0.left/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@0.0.1680.1022" timestamp="1602098182920" />
+    <state width="1579" height="233" key="GridCell.Tab.0.left/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602098236220" />
+    <state width="1579" height="223" key="GridCell.Tab.0.right" timestamp="1602161303349">
+      <screen x="0" y="0" width="1600" height="872" />
+    </state>
+    <state width="1579" height="223" key="GridCell.Tab.0.right/-1600.0.1600.872/1600.0.1600.900/0.0.1600.872@0.0.1600.872" timestamp="1602161303349" />
+    <state width="1659" height="233" key="GridCell.Tab.0.right/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@0.0.1680.1022" timestamp="1602098182920" />
+    <state width="1579" height="233" key="GridCell.Tab.0.right/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602098236220" />
+    <state x="60" y="88" key="SettingsEditor" timestamp="1602161244958">
+      <screen x="0" y="0" width="1600" height="872" />
+    </state>
+    <state x="60" y="88" key="SettingsEditor/-1600.0.1600.872/1600.0.1600.900/0.0.1600.872@0.0.1600.872" timestamp="1602161244958" />
+    <state x="1740" y="91" key="SettingsEditor/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602098352384" />
+    <state x="2193" y="16" width="574" height="867" key="find.popup" timestamp="1602358139616">
+      <screen x="1680" y="0" width="1600" height="900" />
+    </state>
+    <state x="2193" y="16" width="574" height="867" key="find.popup/-1600.0.1600.872/1680.0.1600.900/0.0.1680.1022@1680.0.1600.900" timestamp="1602358139616" />
+  </component>
+</project>
